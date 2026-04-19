@@ -7,5 +7,6 @@ line 6
 line 7 ankit
 line 8 ankit
 new function ()
-{hello world
+{hello world;
+hahahaha
 }
